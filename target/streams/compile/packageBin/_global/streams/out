@@ -1,0 +1,17 @@
+[debug] Packaging C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\spark_streaming_project_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\classes
+[debug] 	main$$anonfun$1.class
+[debug] 	  C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\classes\main$$anonfun$1.class
+[debug] 	main$$anonfun$2.class
+[debug] 	  C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\classes\main$$anonfun$2.class
+[debug] 	main$$anonfun$3.class
+[debug] 	  C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\classes\main$$anonfun$3.class
+[debug] 	main$.class
+[debug] 	  C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\classes\main$.class
+[debug] 	main$delayedInit$body.class
+[debug] 	  C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\classes\main$delayedInit$body.class
+[debug] 	main.class
+[debug] 	  C:\Users\ljoecordoba\IdeaProjects\spark_streaming_project\target\scala-2.11\classes\main.class
+[debug] Done packaging.

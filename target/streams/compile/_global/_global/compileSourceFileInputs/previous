@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.8":{"hashes":[["C:\\Users\\ljoecordoba\\IdeaProjects\\spark_streaming_project\\src\\main\\scala\\main.scala","179e4ed0b4edbe0c307860771caffea6e78016c6"]],"lastModifiedTimes":[]}}]

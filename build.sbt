@@ -1,0 +1,15 @@
+name := "spark_streaming_project"
+
+version := "0.1"
+
+scalaVersion := "2.11.8"
+libraryDependencies += "org.apache.spark" %% "spark-core" % "2.4.3"
+libraryDependencies += "org.apache.spark" %% "spark-streaming" % "2.4.3" % "provided"
+libraryDependencies += "org.apache.spark" %% "spark-streaming-kafka-0-10" % "2.4.3"
+libraryDependencies += "com.amazonaws" % "aws-java-sdk" % "1.11.163"
+libraryDependencies += "org.apache.httpcomponents" % "httpcore" % "4.4.8"
+libraryDependencies += "com.fasterxml.jackson.core" % "jackson-core" % "2.6.5"
+libraryDependencies += "com.fasterxml.jackson.core" % "jackson-annotations" % "2.6.5"
+libraryDependencies += "com.fasterxml.jackson.core" % "jackson-databind" % "2.6.5"
+libraryDependencies += "com.amazonaws" % "aws-java-sdk" % "1.7.4"
+libraryDependencies += "org.apache.hadoop" % "hadoop-aws" % "2.6.5"
